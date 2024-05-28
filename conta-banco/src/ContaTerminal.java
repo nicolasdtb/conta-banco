@@ -14,7 +14,6 @@ public class ContaTerminal {
         System.out.println("Olá! Seja bem-vindo ao sistema de cadastro do banco <sample text>.");
         System.out.println("Para iniciar o processo do seu cadastro, insira o seu nome completo:");
         nomeCliente = scanner.nextLine();
-        //scanner.next();
 
         System.out.println("\nAgora, digite o número da sua agência e o dígito final (exemplo: 067-8): ");
         agencia = scanner.next();
